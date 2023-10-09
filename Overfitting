@@ -1,0 +1,7 @@
+    Overfitting: Overfitting occurs when a model learns to fit the training data too closely, capturing not just the underlying patterns but also the noise or random fluctuations present in the training data. When you use this overly complex model to make predictions on new, unseen data (whether or not that data was in the training set), it tends to perform poorly because it has essentially memorized the training data.
+
+    Generalization: In machine learning, the ultimate goal is to build models that generalize well to new, unseen data. This means the model should learn the underlying patterns and relationships in the data without being overly influenced by the specifics of the training set.
+
+So, even if the data points to be predicted exist in the training set, overfitting can still occur if the model becomes too complex and captures noise or idiosyncrasies in the training data. Overfitting is undesirable because it results in poor performance when the model encounters new, real-world data that may have different noise or characteristics than the training data.
+
+To combat overfitting, you might use techniques like cross-validation, regularization, reducing model complexity, or increasing the amount of training data. These approaches help improve a model's ability to generalize to new data, whether or not that data overlaps with the training set

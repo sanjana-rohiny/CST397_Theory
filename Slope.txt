@@ -1,0 +1,7 @@
+In the equation y = mx + c, "m" represents the slope of the line. The slope is a measure of how steep a line is and tells you how much y (the dependent variable) changes for a given change in x (the independent variable).
+
+Mathematically, the slope "m" is calculated as the ratio of the change in the y-coordinates (vertical change) to the change in the x-coordinates (horizontal change) between two points on the line. It can be expressed as:
+
+m = (change in y) / (change in x)
+
+In simple terms, the slope represents the rate at which the dependent variable (y) changes with respect to the independent variable (x). If the slope is positive, it means that as x increases, y also increases, leading to an upward-sloping line. If the slope is negative, it means that as x increases, y decreases, resulting in a downward-sloping line. If the slope is zero, it indicates a horizontal line where y does not change with changes in x.
